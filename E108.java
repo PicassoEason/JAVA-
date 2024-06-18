@@ -1,9 +1,5 @@
-public class E108 {
-<<<<<<< HEAD
-=======
+public class E108{
     public static void main(String[] args) {
         
     }
->>>>>>> main
-    
 }
