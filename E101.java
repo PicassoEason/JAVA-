@@ -1,12 +1,9 @@
 
-import java.util.Scanner;
 
 public class E101{
     public static void main(String[] args){
-        Scanner sc=new Scanner(System.in);
-        int a=sc.nextInt();
-        int b=sc.nextInt();
-        System.out.println(sum(a,b));
+        sum(3, 4);
+        sum(5, 6);
     }
     public static int sum(Integer a,Integer b){
         return a+b;
